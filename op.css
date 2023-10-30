@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.op {
+  background-color: #f5f5f5;
+  width: 319.828px;
+  height: 438px;
+  margin-left: 700px;
+  margin-top: 50px;
+  border-radius: 0px 0px 7px 7px;
+}
+.op2 {
+  margin-left: 78px;
+  margin-top: 25px;
+}
+.op p {
+  color: #6f2cff;
+
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  margin-top: 25px;
+}
+
